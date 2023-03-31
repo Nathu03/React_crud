@@ -1,4 +1,3 @@
-###############     Start     ###############
 # React_crud
 ## React basic crud method
 1st step --> clone or download the files
