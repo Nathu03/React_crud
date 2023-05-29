@@ -2,51 +2,51 @@
   "employee": [
     {
       "id": 1,
-      "name": "narthanan",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
-      "active": "true"
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "1234567890",
+      "active": true
     },
     {
       "id": 2,
-      "name": "narthanan",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
-      "active": "true"
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "9876543210",
+      "active": true
     },
     {
       "id": 3,
-      "name": "narthanan",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
-      "active": "true"
+      "name": "Michael Johnson",
+      "email": "michaeljohnson@example.com",
+      "phone": "5555555555",
+      "active": false
     },
     {
       "id": 4,
-      "name": "narthanan",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
-      "active": "true"
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "phone": "9999999999",
+      "active": true
     },
     {
       "id": 5,
-      "name": "narthanan",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
-      "active": "true"
+      "name": "David Brown",
+      "email": "davidbrown@example.com",
+      "phone": "4444444444",
+      "active": true
     },
     {
       "id": 6,
-      "name": "narthanan06",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
-      "active": "true"
+      "name": "Sophia Wilson",
+      "email": "sophiawilson@example.com",
+      "phone": "7777777777",
+      "active": true
     },
     {
       "id": 7,
-      "name": "Narthanan07",
-      "email": "nathu03@yahoo.com",
-      "phone": "0771370356",
+      "name": "Oliver Taylor",
+      "email": "olivertaylor@example.com",
+      "phone": "2222222222",
       "active": true
     }
   ]
